@@ -23,16 +23,24 @@ A player wins the game when the opponent cannot make a move. In most cases, this
 ## Installation and use
 
 ```
-$ git clone git@github.com:amirphp7/checkers-twisker.git
+$ git clone https://github.com/amirphp7/checkers-ai-react.git
 ```
 ```
-$ cd checkers-twisker
+$ cd checkers-ai-react
 ```
+### Unix / Linux
 ```
 $ yarn install
 ```
 ```
 $ yarn start
+```
+### Windows
+```
+$ npm install
+```
+```
+$ npm start
 ```
 Runs the app in the development mode.<br>
 **  http://localhost:3000 **
