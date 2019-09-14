@@ -50,5 +50,5 @@ Runs the app in the development mode.<br>
 <img src="public/screenshots/checkers-2.png" alt="">
 
 ## License
-Checkers AI game is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Checkers AI game is permissive software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 Frameworks and libraries has it own licensed
