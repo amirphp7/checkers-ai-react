@@ -1,10 +1,15 @@
 import React from 'react';
+import { BrowserRouter } from 'react-router-dom'
+import GameBoard from './components/GameBoard'
+
 
 function App() {
   return (
-    <div className="App">
-      <h2>Checkers AI Game</h2>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <GameBoard />
+      </div>
+    </BrowserRouter>    
   );
 }
 
